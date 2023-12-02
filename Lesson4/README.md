@@ -14,7 +14,7 @@ local included file job:
     - echo "This is code from the file, which is included localy"
 ```
 
-Создал ещё один репозиторий (проект) и разместил в нём файл `remote-included-file.yml` с джобой:
+Создал другой репозиторий (проект) и разместил в нём файл `remote-included-file.yml` с джобой:
 ```
 remote included file job:
   script:
