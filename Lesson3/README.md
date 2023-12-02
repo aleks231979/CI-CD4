@@ -1,4 +1,4 @@
-# Домашнее задание по Уроку 2 Continuous delivery и continuous deployment (непрерывная доставка и развертывание)
+# Домашнее задание по Уроку 3 Continuous delivery и continuous deployment (непрерывная доставка и развертывание)
 
 **Ссылка на gitlab_ci.yaml:** https://gitlab.com/ci-cd7655047/3/-/blob/main/.gitlab-ci.yml
 
